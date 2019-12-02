@@ -10,13 +10,9 @@ cat /etc/redhat-release
 CentOS Linux release 7.6.1810 (Core) 
 ```
 
-#下载jDK
+#下载jDK8
 
-https://www.oracle.com/technetwork/java/javaseproducts/downloa
-
-![image-20191202103242739](C:\Users\ffhm\AppData\Roaming\Typora\typora-user-images\image-20191202103242739.png)
-
-![image-20191202103353372](C:\Users\ffhm\AppData\Roaming\Typora\typora-user-images\image-20191202103353372.png)
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 
 
